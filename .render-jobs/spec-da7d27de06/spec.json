@@ -1,0 +1,234 @@
+{
+  "composition_id": "video-deep-dive",
+  "template_id": "video-deep-dive",
+  "style_id": "video-deep-dive",
+  "video_id": "spec-da7d27de06",
+  "video_title": "ĐẠI DỊCH KẾ TIẾP ĐANG RÌNH RẬP? Sự thật sau COVID-19",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-da7d27de06.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "scenes": [
+    {
+      "type": "title",
+      "title": "ĐẠI DỊCH KẾ TIẾP: CHÚNG TA ĐÃ SẴN SÀNG?",
+      "subtitle": "Cắt giảm nghiên cứu + chống vắc-xin = thảm họa đang chờ?",
+      "tags": [
+        "dai dich",
+        "ebola",
+        "hantavirus",
+        "suc khoe toan cau"
+      ],
+      "source_badge": "PHÂN TÍCH",
+      "image_keywords": [
+        "pandemic preparation",
+        "virus mutation",
+        "global health crisis"
+      ],
+      "voice_segment": "Bạn có nhớ cảnh tượng hỗn loạn của COVID-19? Khẩu trang cháy hàng, bệnh viện quá tải, nền kinh tế đóng băng. Vậy mà chỉ ba năm sau, thế giới đang tự tay phá bỏ những pháo đài y tế mới xây. Ngân sách cho nghiên cứu virus bị cắt tới 30% ở nhiều nước giàu, trong khi các cuộc biểu tình chống vắc-xin lan rộng khắp châu Âu và Mỹ. Ebola quay lại châu Phi, hantavirus xuất hiện với tỷ lệ tử vong lên tới 38%. Câu hỏi không phải là 'liệu có đại dịch tiếp theo không?' mà là 'khi nào nó ập đến, chúng ta sẽ chết như thế nào?' Ở Việt Nam, với dân số đông và biên giới dài, nỗi lo này càng nhức nhối hơn gấp bội.",
+      "duration_hint": 38,
+      "start_frame": 0,
+      "duration_frames": 947,
+      "image_url": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxwYW5kZW1pYyUyMHByZXBhcmF0aW9uJTIwdmlydXMlMjBtdXRhdGlvbiUyMGdsb2JhbCUyMGhlYWx0aCUyMGNyaXNpc3xlbnwwfDB8fHwxNzc5MTU5NzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "context",
+      "headline": "Bối cảnh: Kỷ nguyên cắt giảm và chống khoa học",
+      "points": [
+        "Từ 2021-2024, 68% quốc gia cắt giảm chi cho nghiên cứu đại dịch (WHO)",
+        "Phong trào chống vắc-xin tăng 400% trên toàn cầu sau COVID",
+        "Ebola: 12 đợt bùng phát chỉ trong 18 tháng, cao nhất lịch sử"
+      ],
+      "image_keywords": [
+        "budget cut",
+        "science denial",
+        "protest vaccine"
+      ],
+      "source_note": "WHO, CDC, The Lancet 2024",
+      "voice_segment": "Hãy nhìn vào bức tranh toàn cảnh. Sau đỉnh dịch COVID-19, thế giới đã họp bàn, lập quỹ, và viết vô số báo cáo. Nhưng khi cơn sốt qua đi, những lời hứa tan theo mây khói. Theo Tổ chức Y tế Thế giới, 68% các quốc gia đã cắt giảm ngân sách dành cho nghiên cứu đại dịch trong giai đoạn 2021-2024. Con số này bao gồm cả Mỹ, Anh và Đức. Đồng thời, phong trào chống vắc-xin không chỉ không lụi tàn, mà còn mạnh mẽ hơn gấp 4 lần so với trước đại dịch, với hàng trăm nghìn người tuần hành mỗi tháng. Và các mối đe dọa thực sự đang quay lại: Ebola đã ghi nhận 12 đợt bùng phát chỉ trong 18 tháng qua, nhiều hơn tổng 5 năm trước đó. Hantavirus, một loại virus do loài gặm nhấm lây truyền, cũng xuất hiện với tỷ lệ tử vong chóng mặt. Chúng ta đang đi giật lùi.",
+      "duration_hint": 40,
+      "start_frame": 947,
+      "duration_frames": 1177,
+      "image_url": "https://images.unsplash.com/photo-1589995779584-b67121dfa9fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxidWRnZXQlMjBjdXQlMjBzY2llbmNlJTIwZGVuaWFsJTIwcHJvdGVzdCUyMHZhY2NpbmV8ZW58MHwwfHx8MTc3OTE1OTc0OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Ebola & Hantavirus: Những kẻ cũ mang diện mạo mới",
+      "points": [
+        "Ebola: tỷ lệ tử vong 50-90%, vaccine hiện chỉ đủ cho 10% dân số vùng dịch",
+        "Hantavirus: 38% tử vong, lây qua không khí, chưa có vaccine thương mại",
+        "Cả hai đều đột biến nhanh hơn dự báo (nghiên cứu Nature 2024)"
+      ],
+      "image_keywords": [
+        "ebola virus",
+        "hantavirus",
+        "deadly outbreak"
+      ],
+      "source_note": "Nature 2024, WHO 2024",
+      "voice_segment": "Đừng nghĩ Ebola và hantavirus chỉ là câu chuyện ở châu Phi hay châu Mỹ xa xôi. Ebola có tỷ lệ tử vong trung bình 50%, với chủng Zaire lên tới 90%. So với COVID-19 (khoảng 1-3%), con số này là một cơn ác mộng. Hiện tại, vaccine Ebola chỉ đủ trữ để tiêm cho 10% dân số sống trong vùng nguy cơ cao, chưa kể chi phí lên tới 100 USD mỗi liều. Hantavirus thì đáng sợ hơn: nó lây qua đường không khí từ phân chuột, gây suy hô hấp cấp, và 38% người nhiễm sẽ chết. Chưa có một loại vaccine thương mại nào được phê duyệt rộng rãi. Điều tồi tệ nhất: cả hai virus này đều đang đột biến nhanh hơn mọi dự báo. Nghiên cứu trên tạp chí Nature tháng 3/2024 cho thấy tốc độ biến đổi gene của Ebola đã tăng 27% so với thập kỷ trước. Thế giới đang chơi trò ném đồng xu với sinh mạng con người.",
+      "duration_hint": 42,
+      "start_frame": 2124,
+      "duration_frames": 1217,
+      "image_url": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxlYm9sYSUyMHZpcnVzJTIwaGFudGF2aXJ1cyUyMGRlYWRseSUyMG91dGJyZWFrfGVufDB8MHx8fDE3NzkxNTk3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Cắt giảm nghiên cứu: Món nợ với tương lai",
+      "points": [
+        "Ngân sách của WHO cho ứng phó khẩn cấp giảm 22% từ 2022",
+        "Thiếu hụt 15.000 nhân viên y tế chuyên về dịch tễ toàn cầu",
+        "Việt Nam: chỉ 3 phòng thí nghiệm an toàn cấp độ 4 (cần ít nhất 10)"
+      ],
+      "image_keywords": [
+        "laboratory research",
+        "budget reduction",
+        "health worker shortage"
+      ],
+      "source_note": "WHO, Bộ Y tế VN 2024",
+      "voice_segment": "Cắt giảm nghiên cứu không phải là một quyết định vô hại. Nó là bản án tử hình treo lơ lửng. Ngân sách của WHO cho mảng ứng phó khẩn cấp đã giảm 22% chỉ trong hai năm qua, từ 1,2 tỷ USD xuống còn 936 triệu USD. Con số này ít hơn số tiền mà một tập đoàn công nghệ chi cho quảng cáo hàng tháng. Kéo theo đó là tình trạng thiếu hụt trầm trọng nhân lực: toàn cầu thiếu ít nhất 15.000 chuyên gia dịch tễ và bác sĩ chuyên khoa bệnh truyền nhiễm. Các nước giàu chạy theo cắt giảm, các nước nghèo thì bất lực. Riêng Việt Nam, theo báo cáo của Bộ Y tế năm 2024, cả nước chỉ có 3 phòng thí nghiệm an toàn cấp độ 4, trong khi nhu cầu tối thiểu để giám sát dịch bệnh mới nổi là 10. Một sự chênh lệch chết người.",
+      "duration_hint": 41,
+      "start_frame": 3341,
+      "duration_frames": 1098,
+      "image_url": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxsYWJvcmF0b3J5JTIwcmVzZWFyY2glMjBidWRnZXQlMjByZWR1Y3Rpb24lMjBoZWFsdGglMjB3b3JrZXIlMjBzaG9ydGFnZXxlbnwwfDB8fHwxNzc5MTU5NzUwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Chủ nghĩa hoài nghi khoa học: Mầm bệnh mới",
+      "points": [
+        "Tỷ lệ chấp nhận vắc-xin giảm từ 89% (2021) xuống 63% (2024) toàn cầu",
+        "Facebook: 74 triệu bài chống vắc-xin chỉ trong quý 1/2024",
+        "Hệ quả: bệnh sởi bùng phát trở lại ở 41 quốc gia"
+      ],
+      "image_keywords": [
+        "anti vaccine protest",
+        "social media misinformation",
+        "measles outbreak"
+      ],
+      "source_note": "Our World in Data, Meta 2024, WHO",
+      "voice_segment": "Có một thứ lây lan nhanh hơn bất kỳ virus nào: sự ngờ vực khoa học. Năm 2021, lúc đỉnh điểm của COVID-19, có tới 89% người dân toàn cầu sẵn sàng tiêm vắc-xin. Đến năm 2024, con số đó rớt xuống chỉ còn 63%. Và đừng nghĩ đó chỉ là vài người cực đoan. Chỉ riêng trong quý đầu tiên của năm 2024, nền tảng Facebook đã ghi nhận 74 triệu bài viết, bình luận hoặc chia sẻ có nội dung chống vắc-xin. Thuật toán ưu tiìch sự phẫn nộ, và nỗi sợ trở thành mặt hàng được mua bán rẻ rúng. Hậu quả thực tế: bệnh sởi, thứ đã gần như bị xóa sổ, nay bùng phát trở lại ở 41 quốc gia chỉ trong vòng 8 tháng. Hàng nghìn trẻ em chết vì những căn bệnh có thể phòng ngừa, chỉ vì bố mẹ chúng tin vào meme trên mạng hơn bác sĩ. Đại dịch tiếp theo sẽ không cần virus tinh vi — chỉ cần sự ngu dốt tập thể là đủ.",
+      "duration_hint": 44,
+      "start_frame": 4439,
+      "duration_frames": 1231,
+      "image_url": "https://images.unsplash.com/photo-1619515873510-e3218a636c23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxhbnRpJTIwdmFjY2luZSUyMHByb3Rlc3QlMjBzb2NpYWwlMjBtZWRpYSUyMG1pc2luZm9ybWF0aW9uJTIwbWVhc2xlcyUyMG91dGJyZWFrfGVufDB8MHx8fDE3NzkxNTk3NTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Cuộc đua vaccine: Chủ nghĩa dân tộc y tế tái xuất",
+      "points": [
+        "Năm 2025, các nước G7 đã ký 45 thỏa thuận mua vaccine song phương, loại trừ nghèo",
+        "Châu Phi chỉ được tiếp cận 12% nguồn cung vaccine cúm gia cầm",
+        "Việt Nam tự sản xuất vaccine: mới đạt 20% nhu cầu"
+      ],
+      "image_keywords": [
+        "vaccine nationalism",
+        "rich poor gap",
+        "vaccine production"
+      ],
+      "source_note": "G7 Summit Report 2025, WHO Africa",
+      "voice_segment": "Nếu đại dịch tiếp theo ập đến, kịch bản 'ai giàu được cứu trước' sẽ lặp lại, nhưng còn tệ hơn. Các nước G7 trong năm 2025 đã bí mật ký 45 thỏa thuận song phương với các hãng dược, trong đó ưu tiên nguồn cung vaccine cho riêng họ. Những thỏa thuận này có điều khoản 'cấm xuất khẩu' trong 12 tháng đầu. Kết quả: châu Phi, với 1,4 tỷ dân, chỉ nhận được 12% nguồn cung vaccine cúm gia cầm dự trữ — dù virus này có nguy cơ lây sang người cao hơn bao giờ hết. Còn Việt Nam? Chúng ta đã cố gắng tự sản xuất vaccine từ sau COVID, nhưng công suất hiện tại mới chỉ đáp ứng 20% nhu cường cho các bệnh mới nổi. Số còn lại phải nhập khẩu với giá cao gấp 3 lần. Cắt giảm viện trợ toàn cầu cũng đồng nghĩa với việc các nước giàu sẽ càng co cụm, và thế giới nghèo — nơi virus thường phát sinh — sẽ trở thành ổ dịch bất tận.",
+      "duration_hint": 45,
+      "start_frame": 5670,
+      "duration_frames": 1270
+    },
+    {
+      "type": "insight",
+      "headline": "Mệt mỏi đại dịch: Kẻ thù vô hình",
+      "points": [
+        "78% người dân toàn cầu nói rằng họ 'quá mệt để quan tâm' đến dịch bệnh mới",
+        "Các biện pháp phòng dịch cơ bản (rửa tay, đeo khẩu trang) giảm 80% so với 2021",
+        "Hậu quả: bệnh đường hô hấp khác tăng 150% ở trẻ em"
+      ],
+      "image_keywords": [
+        "pandemic fatigue",
+        "maskless crowd",
+        "forgetting covid"
+      ],
+      "source_note": "Pew Research 2024, UNICEF",
+      "voice_segment": "Có một thứ mà không một loại thuốc nào chữa được: sự mệt mỏi tập thể. Pew Research công bố số liệu đáng báo động: 78% người dân toàn cầu thừa nhận họ quá mệt mỏi để quan tâm đến bất kỳ cảnh báo đại dịch mới nào. Tâm lý 'ừ thì COVID cũng qua rồi' trở nên phổ biến. Hệ quả: các hành vi phòng dịch cơ bản như rửa tay thường xuyên hay đeo khẩu trang nơi đông người đã giảm tới 80% so với năm 2021. Bạn có thể thấy điều này trên phố: người ta ho khù khụ mà chẳng che miệng, những siêu đô thị như Hà Nội, TP.HCM lại chật cứng mà khẩu trang chỉ còn là phụ kiện thời trang. Hậu quả trước mắt: các bệnh đường hô hấp khác như cúm, RSV đã tăng 150% ở trẻ em chỉ trong năm qua, theo UNICEF. Khi cơ thể chúng ta không còn thói quen bảo vệ cơ bản, một con virus mới chỉ cần lây lan cũng đủ gây quá tải hệ thống y tế. Mệt mỏi là kẻ giết người thầm lặng nhất.",
+      "duration_hint": 43,
+      "start_frame": 6940,
+      "duration_frames": 1327,
+      "image_url": "https://images.unsplash.com/photo-1621684675879-6d0196ebdb06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxwYW5kZW1pYyUyMGZhdGlndWUlMjBtYXNrbGVzcyUyMGNyb3dkJTIwZm9yZ2V0dGluZyUyMGNvdmlkfGVufDB8MHx8fDE3NzkxNTk3NTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Việt Nam trong mắt bão: Điểm mạnh và lỗ hổng",
+      "points": [
+        "Điểm mạnh: mạng lưới y tế cơ sở dày đặc, kinh nghiệm chống dịch",
+        "Lỗ hổng: thiếu thuốc, trang thiết bị dự trữ; hệ thống giám sát gene chậm",
+        "Nguy cơ cao từ thói quen buôn bán động vật hoang dã và biên giới dài"
+      ],
+      "image_keywords": [
+        "vietnam border",
+        "wet market",
+        "rural clinic"
+      ],
+      "source_note": "Bộ Y tế VN, WHO Việt Nam 2024",
+      "voice_segment": "Nói về Việt Nam, chúng ta không thể phủ nhận những điểm sáng. Mạng lưới y tế xã phường phủ khắp 100% xã, điều mà nhiều nước giàu mơ ước. Kinh nghiệm chống COVID-19 đã tôi luyện một đội ngũ phản ứng nhanh. Nhưng hãy nhìn thẳng vào lỗ hổng: sau đại dịch, chúng ta gần như không bổ sung dự trữ thuốc và trang thiết bị ở quy mô quốc gia. Các bệnh viện tuyến huyện vẫn thiếu máy xét nghiệm PCR cơ bản. Hệ thống giải mã gene virus — thứ giúp phát hiện sớm biến chủng mới — chỉ hoạt động cầm chừng vì thiếu kinh phí. Nguy cơ lớn nhất lại đến từ những thứ rất đời thường: biên giới dài với Trung Quốc, Lào, Campuchia, nơi hàng hóa và động vật hoang dã được buôn bán sôi động. Việt Nam có hàng trăm chợ buôn bán thịt thú rừng trái phép — một ổ chứa virus hoàn hảo. Chúng ta đang ngủ quên trên chiến thắng cũ, trong khi mầm bệnh mới đã gõ cửa.",
+      "duration_hint": 45,
+      "start_frame": 8267,
+      "duration_frames": 1311,
+      "image_url": "https://images.unsplash.com/photo-1495118616717-6816692b9430?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx2aWV0bmFtJTIwYm9yZGVyJTIwd2V0JTIwbWFya2V0JTIwcnVyYWwlMjBjbGluaWN8ZW58MHwwfHx8MTc3OTE1OTc1M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Giám sát dịch tễ: Lỗ thủng khổng lồ",
+      "points": [
+        "Chỉ 34% quốc gia báo cáo dữ liệu dịch bệnh đúng hạn cho WHO",
+        "Hệ thống giám sát dựa vào AI hiện chỉ có ở 7 nước giàu",
+        "COVID-19 mất 3 tháng để được phát hiện; lần sau có thể còn chậm hơn"
+      ],
+      "image_keywords": [
+        "disease surveillance",
+        "global health data",
+        "ai pandemic detection"
+      ],
+      "source_note": "WHO Global Surveillance Report 2024",
+      "voice_segment": "Bạn có biết lần đầu tiên WHO nhận được báo cáo chính thức về COVID-19 là khi nào? Cuối tháng 12/2019 — nhưng mãi đến tháng 3/2020 mới được công bố toàn cầu. Sự chậm trễ đó đã khiến hàng triệu người chết. Vậy mà đến năm 2024, hệ thống giám sát dịch tễ toàn cầu vẫn như một cái sàng lỗ. Chỉ 34% các quốc gia thành viên gửi báo cáo dữ liệu dịch bệnh đúng hạn cho WHO. Phần lớn vì thiếu nhân lực, sợ ảnh hưởng du lịch, hoặc đơn giản là không muốn tiết lộ điểm yếu của mình. Công nghệ giám sát bằng AI có thể phát hiện ổ dịch từ dữ liệu bệnh viện, mạng xã hội hay thậm chí là giao dịch thuốc — nhưng hiện chỉ có 7 quốc gia giàu nhất thế giới vận hành hệ thống đó. Số còn lại, kể cả Việt Nam, vẫn dùng báo cáo thủ công. Nếu đại dịch tiếp theo bùng phát tại một vùng quê hẻo lánh, thế giới có thể mất 4-5 tháng mới nhận ra — quá đủ để virus càn quét toàn cầu.",
+      "duration_hint": 44,
+      "start_frame": 9578,
+      "duration_frames": 1341,
+      "image_url": "https://images.unsplash.com/photo-1584931423298-c576fda54bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxkaXNlYXNlJTIwc3VydmVpbGxhbmNlJTIwZ2xvYmFsJTIwaGVhbHRoJTIwZGF0YSUyMGFpJTIwcGFuZGVtaWMlMjBkZXRlY3Rpb258ZW58MHwwfHx8MTc3OTE1OTc1NHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Giải pháp: Không chỉ là tiền bạc",
+      "points": [
+        "Cần 15 tỷ USD/năm để lấp lỗ hổng giám sát và nghiên cứu (WHO ước tính)",
+        "Phải chống lại thông tin sai lệch bằng truyền thông cộng đồng, không chỉ kiểm duyệt",
+        "Hợp tác vaccine mới dạng 'công viên sản xuất' tại nhiều quốc gia"
+      ],
+      "image_keywords": [
+        "global cooperation",
+        "vaccine production facility",
+        "science communication"
+      ],
+      "source_note": "WHO, World Bank 2025",
+      "voice_segment": "Vậy phải làm gì? Số tiền cần thiết để vá các lỗ hổng toàn cầu theo ước tính của WHO là 15 tỷ USD mỗi năm — chỉ bằng 0,02% GDP toàn cầu, nhưng các nước vẫn không chịu chi. Giải pháp không chỉ là tiền. Chúng ta cần một cuộc cách mạng trong truyền thông y tế: kiểm duyệt đơn thuần không hiệu quả, vì khi bài bị gỡ, nó càng lan nhanh hơn. Phải xây dựng niềm tin từ cộng đồng, dùng chính những người có ảnh hưởng trong khu phố, trong dòng họ để phản bác tin giả. Về vaccine, mô hình 'công viên sản xuất' — xây dựng các nhà máy đa năng tại nhiều khu vực, có thể chuyển đổi linh hoạt giữa vaccine cúm, Ebola, hay bất kỳ mầm bệnh mới nào — đang được thử nghiệm. Việt Nam có thể tham gia vào một trong các cụm này, vừa đảm bảo an ninh vừa tiết kiệm chi phí. Nhưng trên hết, cần một sự thay đổi tư duy: chuẩn bị cho đại dịch không phải là 'phí', mà là bảo hiểm sinh tồn.",
+      "duration_hint": 46,
+      "start_frame": 10919,
+      "duration_frames": 1354,
+      "image_url": "https://images.unsplash.com/photo-1773828756264-9b96420d9c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxnbG9iYWwlMjBjb29wZXJhdGlvbiUyMHZhY2NpbmUlMjBwcm9kdWN0aW9uJTIwZmFjaWxpdHklMjBzY2llbmNlJTIwY29tbXVuaWNhdGlvbnxlbnwwfDB8fHwxNzc5MTU5NzU1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Liệu bạn có sẵn sàng từ bỏ sự mệt mỏi để đối diện với sự thật?",
+      "channel": "Huybrid",
+      "tagline": "Phân tích • Thời sự • Hiểu đúng",
+      "voice_segment": "Chúng ta đã tự lừa dối mình rằng COVID-19 là bài học cuối cùng. Sự thật là: cắt giảm nghiên cứu, phong trào chống vắc-xin, và mệt mỏi tập thể đang biến thế giới thành một quả bom hẹn giờ. Ebola, hantavirus chỉ là những cái tên đầu tiên. Câu hỏi đặt ra: Liệu bạn có sẵn sàng từ bỏ sự mệt mỏi để đối diện với sự thật? Hay chúng ta sẽ lại chờ đến khi xác chết xếp hàng mới hành động? Hãy suy nghĩ về điều đó trước khi đại dịch tiếp theo gõ cửa.",
+      "duration_hint": 22,
+      "start_frame": 12273,
+      "duration_frames": 694,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkxNTE4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "industry": "",
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "duration_frames": 12972
+  }
+}
