@@ -1,0 +1,93 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-a3b096600e",
+  "video_title": "Chiến tranh Iran ngày 80: Trump dọa, Tehran sẵn sàng",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-a3b096600e.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Ngày 80: Trump dọa tấn công Iran",
+      "subtitle": "Tehran: 'Sẵn sàng đối đầu mọi đòn'",
+      "tags": [
+        "Iran",
+        "US",
+        "war"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "Iran war",
+        "Trump warning",
+        "military tension"
+      ],
+      "voice_segment": "Chiến tranh Iran đã bước sang ngày thứ 80, và căng thẳng chưa hề hạ nhiệt. Cựu Tổng thống Trump vừa đưa ra lời cảnh báo mới, trong khi Tehran tuyên bố sẵn sàng đối phó mọi cuộc tấn công.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 283,
+      "image_url": "https://images.unsplash.com/photo-1612972266008-479c7c2c952a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxJcmFuJTIwd2FyJTIwVHJ1bXAlMjB3YXJuaW5nJTIwbWlsaXRhcnklMjB0ZW5zaW9ufGVufDB8MHx8fDE3NzkxMTUwODJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Cảnh báo từ Trump: Đòn tiếp theo?",
+      "points": [
+        "Trump: 'Iran sẽ phải trả giá' - ngụ ý không kích mới",
+        "Ngày 80: Mỹ đã thực hiện ít nhất 15 đợt tập kích",
+        "Mục tiêu: cơ sở hạt nhân và tướng lĩnh Iran"
+      ],
+      "image_keywords": [
+        "Donald Trump speech",
+        "US airstrike",
+        "Iran nuclear site"
+      ],
+      "source_note": "Al Jazeera ngày 18/5/2026",
+      "voice_segment": "Trump không chỉ nói suông. Ông ấy đang gửi tín hiệu rằng các cuộc không kích vào Iran có thể quay trở lại bất cứ lúc nào. Hãy nhớ: trong 80 ngày qua, Mỹ đã tiến hành ít nhất 15 đợt tập kích nhắm vào các tướng lĩnh và cơ sở hạt nhân của Iran. Câu hỏi: liệu đòn tiếp theo có chấm dứt chế độ?",
+      "duration_hint": 12,
+      "start_frame": 283,
+      "duration_frames": 440
+    },
+    {
+      "type": "insight",
+      "headline": "Lebanon: 'Ngừng bắn' chỉ là giả tạo",
+      "points": [
+        "Israel vẫn tập kích Lebanon dù cam kết ngừng bắn",
+        "Iran hỗ trợ Hezbollah đáp trả bằng rocket mỗi ngày",
+        "Thỏa thuận không có giá trị trên thực địa"
+      ],
+      "image_keywords": [
+        "Lebanon airstrike",
+        "Hezbollah rocket",
+        "ceasefire violation"
+      ],
+      "source_note": "Al Jazeera & BBC World",
+      "voice_segment": "Và trong khi Mỹ dọa Iran, mặt trận Lebanon vẫn đỏ lửa. Israel liên tục tập kích bất chấp lệnh 'ngừng bắn' được gia hạn. Hezbollah được Iran hậu thuẫn đáp trả bằng rocket hầu như mỗi ngày. Rõ ràng thỏa thuận hiện tại chỉ là tấm bình phong cho leo thang tiếp theo.",
+      "duration_hint": 10,
+      "start_frame": 723,
+      "duration_frames": 399,
+      "image_url": "https://images.unsplash.com/photo-1563389845181-317e9b3be029?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxMZWJhbm9uJTIwYWlyc3RyaWtlJTIwSGV6Ym9sbGFoJTIwcm9ja2V0JTIwY2Vhc2VmaXJlJTIwdmlvbGF0aW9ufGVufDB8MHx8fDE3NzkxMTUwODR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Theo dõi để cập nhật chiến sự mới nhất",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Khi Trump và Iran chơi trò đấu trí, liệu người dân có thêm ngày thứ 81? Hãy chia sẻ quan điểm của bạn.",
+      "duration_hint": 4,
+      "start_frame": 1122,
+      "duration_frames": 155,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkxNTE4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1280
+  }
+}
