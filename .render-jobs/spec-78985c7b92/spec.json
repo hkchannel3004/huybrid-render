@@ -1,0 +1,270 @@
+{
+  "composition_id": "video-deep-dive",
+  "template_id": "video-deep-dive",
+  "style_id": "video-deep-dive",
+  "video_id": "spec-78985c7b92",
+  "video_title": "Gaza: Ngừng bắn hay 'ngừng' để bắn tiếp? – Sự thật đằng sau lời hứa hòa bình",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-78985c7b92.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Gaza: Ngừng bắn hay 'ngừng' để bắn tiếp?",
+      "subtitle": "Sau lệnh ngừng bắn, số vụ tấn công tăng 300%. Thực hư điều gì đang xảy ra?",
+      "tags": [
+        "Gaza",
+        "Israel",
+        "ceasefire"
+      ],
+      "source_badge": "PHÂN TÍCH",
+      "image_keywords": [
+        "gaza destruction",
+        "airstrike aftermath",
+        "ceasefire protest"
+      ],
+      "voice_segment": "Một lệnh ngừng bắn thường được kỳ vọng là điểm dừng của bom đạn. Nhưng ở Gaza, nó lại như một chiếc công tắc bật lên cơn cuồng nộ mới. Chỉ trong 48 giờ sau tuyên bố 'ngừng bắn' của Israel, số vụ không kích đã tăng gấp ba lần so với tuần trước đó. Điều gì đã biến một thỏa thuận hòa bình thành cái bẫy chết chóc? Phải chăng đây là chiến thuật 'bình định' mới, hay chỉ là màn kịch ngoại giao che giấu một cuộc chiến tranh tổng lực? Hôm nay, Huybrid sẽ mổ xẻ nghịch lý chết người này – nơi ngôn từ hòa bình lại mở đường cho hủy diệt. Chúng ta sẽ nhìn vào số liệu thực tế, toan tính địa chính trị, và cả bài học xương máu cho chính an ninh của Việt Nam.",
+      "duration_hint": 35,
+      "start_frame": 0,
+      "duration_frames": 945,
+      "image_url": "https://images.unsplash.com/photo-1678047471351-84a24c661587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxnYXphJTIwZGVzdHJ1Y3Rpb24lMjBhaXJzdHJpa2UlMjBhZnRlcm1hdGglMjBjZWFzZWZpcmUlMjBwcm90ZXN0fGVufDB8MHx8fDE3NzkxMTMzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "context",
+      "headline": "Bối cảnh: Xung đột Israel-Hamas và 'vòng xoáy' ngừng bắn",
+      "points": [
+        "Hamas kiểm soát Gaza từ 2007, Israel phong tỏa toàn diện.",
+        "Các chiến dịch quân sự lớn: 2008-09, 2012, 2014, 2021, và từ 7/10/2023.",
+        "Lệnh ngừng bắn lần này được công bố sau 15 tháng giao tranh, với hơn 45.000 người Palestine thiệt mạng."
+      ],
+      "image_keywords": [
+        "gaza conflict history",
+        "israel palestine war"
+      ],
+      "source_note": "OCHA, Al Jazeera",
+      "voice_segment": "Để hiểu vì sao một lệnh ngừng bắn lại phản tác dụng, phải nhìn lại lịch sử đẫm máu của mảnh đất này. Hamas đã kiểm soát Dải Gaza từ năm 2007 sau cuộc nội chiến với Fatah, biến nơi đây thành thành trì đối đầu Israel. Israel đáp trả bằng phong tỏa toàn diện trên bộ, trên biển và trên không, biến Gaza thành 'nhà tù lộ thiên' lớn nhất thế giới. Trong gần hai thập kỷ, cứ vài năm lại nổ ra một cuộc chiến lớn, và lần nào cũng xuất hiện những lệnh ngừng bắn mong manh. Nhưng lần này, sau cuộc tấn công của Hamas vào ngày 7 tháng 10 năm 2023, Israel tuyên bố mục tiêu 'xóa sổ' Hamas. Tính đến nay, hơn 45.000 người Palestine đã thiệt mạng, phần lớn là phụ nữ và trẻ em. Bối cảnh ấy khiến cho từ 'ngừng bắn' trở nên mỉa mai hơn bao giờ hết.",
+      "duration_hint": 35,
+      "start_frame": 945,
+      "duration_frames": 1069,
+      "image_url": "https://images.unsplash.com/photo-1739879353789-41554220f9c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxnYXphJTIwY29uZmxpY3QlMjBoaXN0b3J5JTIwaXNyYWVsJTIwcGFsZXN0aW5lJTIwd2FyfGVufDB8MHx8fDE3NzkxMTMzNTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Số liệu không biết nói dối: Tấn công tăng 300% sau 'ngừng bắn'",
+      "points": [
+        "Theo OCHA, số vụ không kích tăng từ trung bình 10/ngày lên 35/ngày sau tuyên bố.",
+        "IDF tuyên bố nhắm vào 'cơ sở hạ tầng khủng bố', nhưng 70% nạn nhân là dân thường.",
+        "Bệnh viện Al-Shifa bị đánh sập hoàn toàn, bất chấp luật nhân đạo quốc tế."
+      ],
+      "image_keywords": [
+        "gaza airstrike",
+        "civilian casualties",
+        "hospital destruction"
+      ],
+      "source_note": "OCHA, WHO, IDF press release",
+      "voice_segment": "Những con số từ Văn phòng Điều phối Nhân đạo Liên Hợp Quốc không hề biết nói dối. Trước ngày Israel công bố ngừng bắn, trung bình mỗi ngày có khoảng 10 cuộc không kích. Nhưng chỉ 24 giờ sau tuyên bố, con số đó đã nhảy vọt lên 35 vụ mỗi ngày – một mức tăng chưa từng thấy kể từ đầu chiến dịch. Phía IDF giải thích rằng họ đang 'dọn dẹp' những mục tiêu khủng bố còn sót lại. Nhưng thực tế, 70% số người thiệt mạng là dân thường, nhiều người đang trú ẩn trong các khu vực được cho là an toàn. Bệnh viện Al-Shifa, nơi từng là biểu tượng của sự sống, đã bị san phẳng hoàn toàn, vùi lấp hàng trăm bệnh nhân và nhân viên y tế. Ngừng bắn ư? Đó chỉ là một trò đùa tàn nhẫn của ngôn từ trong cuộc chiến không có luật lệ.",
+      "duration_hint": 38,
+      "start_frame": 2014,
+      "duration_frames": 1034,
+      "image_url": "https://images.unsplash.com/photo-1739879353789-41554220f9c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxnYXphJTIwYWlyc3RyaWtlJTIwY2l2aWxpYW4lMjBjYXN1YWx0aWVzJTIwaG9zcGl0YWwlMjBkZXN0cnVjdGlvbnxlbnwwfDB8fHwxNzc5MTEzMzU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Học thuyết 'cắt cỏ' và cái bẫy ngừng bắn",
+      "points": [
+        "Chiến lược 'Mowing the grass' – định kỳ tấn công để suy yếu Hamas, không tiêu diệt hoàn toàn.",
+        "Lệnh ngừng bắn là đòn nghi binh để tập hợp lực lượng, thăm dò phản ứng quốc tế.",
+        "Sau khi Hamas hạ vũ khí một phần, Israel tung đòn quyết định vào kho vũ khí ngầm."
+      ],
+      "image_keywords": [
+        "military strategy",
+        "israel defense forces",
+        "urban warfare"
+      ],
+      "source_note": "Phân tích từ Viện Nghiên cứu An ninh Quốc gia Israel (INSS)",
+      "voice_segment": "Người ta gọi đó là học thuyết 'Mowing the grass' – cắt cỏ. Đối với Israel, Hamas không phải là kẻ thù có thể bị tiêu diệt hoàn toàn trong một cuộc chiến, mà là một vấn đề cần được 'xén' định kỳ để không mọc quá cao. Lệnh ngừng bắn lần này không nằm ngoài logic đó. Nó là khoảng lặng chiến thuật để Israel tập trung lực lượng, điều chỉnh mục tiêu và thăm dò phản ứng của cộng đồng quốc tế. Ngay khi Hamas bắt đầu rút bớt các đơn vị khỏi tiền tuyến vì tin vào hòa bình, các máy bay chiến đấu của Israel đã ồ ạt tấn công các kho vũ khí ngầm và đường hầm chiến lược. Cái bẫy được giăng ra một cách hoàn hảo, và chữ 'ngừng bắn' trở thành mồi nhử chết người.",
+      "duration_hint": 38,
+      "start_frame": 3048,
+      "duration_frames": 950
+    },
+    {
+      "type": "insight",
+      "headline": "Hamas: Kẻ bị dồn vào chân tường hay con bài chính trị?",
+      "points": [
+        "Hamas chấp nhận ngừng bắn do áp lực từ Qatar và Ai Cập, nhưng vẫn giữ con tin.",
+        "Sau đòn tấn công bất ngờ, Hamas cáo buộc Israel 'lừa dối' và tuyên bố trả đũa.",
+        "Sự chia rẽ giữa Hamas và Chính quyền Palestine khiến Gaza càng thêm hỗn loạn."
+      ],
+      "image_keywords": [
+        "hamas leadership",
+        "palestine politics",
+        "hostage crisis"
+      ],
+      "source_note": "Al Jazeera, Reuters",
+      "voice_segment": "Về phía bên kia chiến tuyến, Hamas cũng không hoàn toàn thụ động. Áp lực khổng lồ từ các bên trung gian như Qatar và Ai Cập buộc họ phải chấp thuận ngừng bắn, nhưng không có nghĩa là họ từ bỏ vũ khí. Hamas vẫn giữ chặt hàng chục con tin làm lá chắn sống, biến họ thành con bài mặc cả chính trị. Khi Israel tung đòn tập kích sau ngừng bắn, Hamas ngay lập tức tuyên bố bị 'lừa dối' và đe dọa trả đũa bằng tên lửa vào Tel Aviv. Điều nguy hiểm hơn là sự chia rẽ sâu sắc giữa Hamas ở Gaza và Chính quyền Palestine ở Bờ Tây, khiến cho bất kỳ nỗ lực hòa bình thực sự nào cũng đổ vỡ. Gaza vì thế không chỉ là chiến trường quân sự mà còn là ván cờ chính trị đầy mưu đồ từ cả hai phía.",
+      "duration_hint": 38,
+      "start_frame": 3998,
+      "duration_frames": 983,
+      "image_url": "https://images.unsplash.com/photo-1737133502577-6ea6e6b7022c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxoYW1hcyUyMGxlYWRlcnNoaXAlMjBwYWxlc3RpbmUlMjBwb2xpdGljcyUyMGhvc3RhZ2UlMjBjcmlzaXN8ZW58MHwwfHx8MTc3OTExMzM2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Bàn tay vô hình: Mỹ, Iran và bài toán Trung Đông",
+      "points": [
+        "Mỹ phủ quyết nghị quyết ngừng bắn của LHQ, tiếp tục viện trợ vũ khí cho Israel.",
+        "Iran hậu thuẫn Hezbollah và Houthi, tấn công tàu hàng trên Biển Đỏ để gây áp lực.",
+        "Cuộc chiến ủy nhiệm biến Gaza thành bàn cờ địa chính trị, dân thường là con tốt thí."
+      ],
+      "image_keywords": [
+        "un security council",
+        "us israel alliance",
+        "iran proxy war"
+      ],
+      "source_note": "UN News, Bloomberg",
+      "voice_segment": "Nhưng sẽ là sai lầm nếu nghĩ cuộc chiến này chỉ có Israel và Hamas. Đằng sau nó là cuộc giằng co sống còn giữa Mỹ và Iran. Mỹ đã liên tục phủ quyết các nghị quyết ngừng bắn của Hội đồng Bảo an Liên Hợp Quốc, đồng thời tăng tốc chuyển giao bom đạn thông minh cho Israel. Ngược lại, Iran thông qua các lực lượng ủy nhiệm như Hezbollah ở Lebanon và Houthi ở Yemen đã mở mặt trận mới trên Biển Đỏ, tấn công tàu hàng để bóp nghẹt tuyến vận tải toàn cầu. Gaza vì thế đã trở thành một bàn cờ địa chính trị khổng lồ, nơi các siêu cường chơi ván cờ của họ. Còn những con tốt thí, chính là hơn hai triệu người dân vô tội đang bị kẹt giữa làn đạn.",
+      "duration_hint": 38,
+      "start_frame": 4981,
+      "duration_frames": 927,
+      "image_url": "https://images.unsplash.com/photo-1772299399444-7b4449b62c88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx1biUyMHNlY3VyaXR5JTIwY291bmNpbCUyMHVzJTIwaXNyYWVsJTIwYWxsaWFuY2UlMjBpcmFuJTIwcHJveHklMjB3YXJ8ZW58MHwwfHx8MTc3OTExMzM2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Địa ngục trần gian: Người dân Gaza mắc kẹt giữa 'hòa bình' và hủy diệt",
+      "points": [
+        "2,3 triệu dân thiếu nước sạch, thực phẩm, thuốc men; 80% nhà cửa bị phá hủy.",
+        "WHO cảnh báo nguy cơ dịch tả và suy dinh dưỡng trầm trọng.",
+        "Trẻ em Gaza mất niềm tin vào 'ngừng bắn' – cụm từ trở thành nỗi ám ảnh."
+      ],
+      "image_keywords": [
+        "gaza humanitarian crisis",
+        "child refugees",
+        "destruction aftermath"
+      ],
+      "source_note": "WHO, UNICEF",
+      "voice_segment": "Trong khi các bên đấu đá chính trị, 2,3 triệu người dân Gaza đang sống trong địa ngục trần gian. Hơn 80% nhà cửa bị phá hủy hoàn toàn hoặc hư hại nặng. Không còn nước sạch, không thực phẩm, không thuốc men – Tổ chức Y tế Thế giới cảnh báo nguy cơ bùng phát dịch tả và suy dinh dưỡng cấp tính đang ở mức báo động đỏ. Đặc biệt, hàng trăm nghìn trẻ em đã trở thành nạn nhân của một nỗi ám ảnh tâm lý mới: mỗi khi nghe đến từ 'ngừng bắn', chúng không còn hy vọng mà chỉ thấy sợ hãi, vì biết rằng bom đạn sắp dội xuống dữ dội hơn. Đây không còn là khủng hoảng nhân đạo, mà là một thảm họa nhân đạo có hệ thống, được bào chữa bằng những lời lẽ ngoại giao trống rỗng.",
+      "duration_hint": 38,
+      "start_frame": 5908,
+      "duration_frames": 962,
+      "image_url": "https://images.unsplash.com/photo-1739879353789-41554220f9c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxnYXphJTIwaHVtYW5pdGFyaWFuJTIwY3Jpc2lzJTIwY2hpbGQlMjByZWZ1Z2VlcyUyMGRlc3RydWN0aW9uJTIwYWZ0ZXJtYXRofGVufDB8MHx8fDE3NzkxMTMzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Lệnh ngừng bắn và cái chết của luật pháp quốc tế",
+      "points": [
+        "Tòa án Công lý Quốc tế (ICJ) ra phán quyết yêu cầu Israel ngừng tấn công, nhưng không có cơ chế cưỡng chế.",
+        "Israel phớt lờ, thậm chí cấm UNRWA hoạt động, đẩy khủng hoảng lên cao.",
+        "Cộng đồng quốc tế bất lực, để xung đột kéo dài – bài học cho các nước nhỏ như Việt Nam."
+      ],
+      "image_keywords": [
+        "international court justice",
+        "united nations failure",
+        "genocide convention"
+      ],
+      "source_note": "ICJ ruling, UNRWA reports",
+      "voice_segment": "Nếu luật pháp quốc tế thực sự có hiệu lực, Gaza đã không trở thành nghĩa địa như hôm nay. Tòa án Công lý Quốc tế đã ra phán quyết yêu cầu Israel lập tức dừng các hành vi vi phạm Công ước về Diệt chủng. Nhưng phán quyết ấy không có răng cắn – không một lực lượng gìn giữ hòa bình nào được triển khai, không một biện pháp trừng phạt thực chất nào được thông qua. Thậm chí, Israel còn cấm UNRWA, cơ quan cứu trợ chính của Liên Hợp Quốc, hoạt động trên lãnh thổ họ kiểm soát. Sự bất lực của luật pháp quốc tế trước quyền lực cứng là bài học đau đớn cho mọi quốc gia nhỏ, trong đó có Việt Nam – rằng giấy trắng mực đen chỉ có giá trị khi ta đủ mạnh để tự bảo vệ mình.",
+      "duration_hint": 38,
+      "start_frame": 6870,
+      "duration_frames": 964,
+      "image_url": "https://images.unsplash.com/photo-1590274853856-f22d5ee3d228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxpbnRlcm5hdGlvbmFsJTIwY291cnQlMjBqdXN0aWNlJTIwdW5pdGVkJTIwbmF0aW9ucyUyMGZhaWx1cmUlMjBnZW5vY2lkZSUyMGNvbnZlbnRpb258ZW58MHwwfHx8MTc3OTExMzM2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Khi sự thật là nạn nhân đầu tiên: Trận chiến truyền thông ở Gaza",
+      "points": [
+        "Israel kiểm soát dòng tin, cấm báo chí nước ngoài vào Gaza.",
+        "Hình ảnh 'ngừng bắn' được dùng để xoa dịu dư luận phương Tây, trong khi bom rơi ở Rafah.",
+        "Mạng xã hội trở thành mặt trận thứ hai, nơi thuật ngữ 'ngừng bắn' bị thao túng."
+      ],
+      "image_keywords": [
+        "media manipulation",
+        "press freedom",
+        "social media war"
+      ],
+      "source_note": "Committee to Protect Journalists, OSINT",
+      "voice_segment": "Trong bất kỳ cuộc chiến hiện đại nào, sự thật luôn là nạn nhân đầu tiên. Israel đã thực hiện một chiến dịch truyền thông bài bản: kiểm soát chặt chẽ dòng tin ra khỏi Gaza, cấm hoàn toàn báo chí nước ngoài tác nghiệp độc lập. Trong khi đó, những tuyên bố về 'ngừng bắn' được phát đi khắp các kênh truyền hình phương Tây như một liều thuốc an thần, che giấu việc bom đạn vẫn cày xới Rafah. Mạng xã hội trở thành chiến trường thứ hai, nơi mỗi từ ngữ đều được vũ khí hóa: 'ngừng bắn' không còn nghĩa là ngừng giết chóc, mà là một công cụ để thao túng cảm xúc và định hướng dư luận toàn cầu. Chúng ta đang sống trong một thời đại mà hòa bình cũng chỉ là một sản phẩm truyền thông.",
+      "duration_hint": 38,
+      "start_frame": 7834,
+      "duration_frames": 983,
+      "image_url": "https://images.unsplash.com/photo-1579532537902-1e50099867b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxtZWRpYSUyMG1hbmlwdWxhdGlvbiUyMHByZXNzJTIwZnJlZWRvbSUyMHNvY2lhbCUyMG1lZGlhJTIwd2FyfGVufDB8MHx8fDE3NzkyODYzMTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Giá xăng, Biển Đỏ và túi tiền người Việt từ cuộc chiến Gaza",
+      "points": [
+        "Houthi tấn công tàu hàng trên Biển Đỏ, buộc tàu phải đi vòng qua Mũi Hảo Vọng, tăng chi phí 30%.",
+        "Giá dầu Brent vọt lên 90 USD/thùng, ảnh hưởng trực tiếp đến giá xăng dầu Việt Nam.",
+        "Xuất khẩu thủy sản, dệt may Việt Nam sang Trung Đông giảm 15% vì bất ổn."
+      ],
+      "image_keywords": [
+        "red sea shipping",
+        "oil price crisis",
+        "vietnam economy"
+      ],
+      "source_note": "Bloomberg, Tổng cục Hải quan Việt Nam",
+      "voice_segment": "Người Việt Nam có thể tự hỏi: Chuyện Gaza thì liên quan gì đến mình? Câu trả lời nằm ngay ở cây xăng bạn đổ mỗi sáng. Những cuộc tấn công của Houthi trên Biển Đỏ đã buộc các tàu hàng phải đi vòng qua Mũi Hảo Vọng, đội chi phí vận tải lên 30% và đẩy giá dầu Brent vọt lên sát 90 USD một thùng. Điều này kéo theo giá xăng dầu trong nước liên tục nhảy múa, đè nặng lên chi phí sống của mọi gia đình. Không chỉ vậy, xuất khẩu thủy sản và dệt may của Việt Nam sang thị trường Trung Đông – một trong những điểm sáng tăng trưởng – đã giảm tới 15% chỉ vì tình trạng bất ổn. Cuộc chiến ở cách chúng ta nửa vòng trái đất, nhưng hóa đơn của nó thì đang gõ cửa từng nhà.",
+      "duration_hint": 38,
+      "start_frame": 8817,
+      "duration_frames": 959,
+      "image_url": "https://images.unsplash.com/photo-1558197259-3da7cc25fe1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxyZWQlMjBzZWElMjBzaGlwcGluZyUyMG9pbCUyMHByaWNlJTIwY3Jpc2lzJTIwdmlldG5hbSUyMGVjb25vbXl8ZW58MHwwfHx8MTc3OTExMzM3M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Gaza chỉ là ngòi nổ: Trung Đông trước vực thẳm chiến tranh tổng lực",
+      "points": [
+        "Căng thẳng Israel-Hezbollah ở biên giới Lebanon leo thang thành giao tranh.",
+        "Iran và Israel đấu tên lửa trực tiếp, nguy cơ kéo Mỹ vào cuộc.",
+        "Ai Cập và Jordan lo ngại làn sóng tị nạn khổng lồ làm mất ổn định nội bộ."
+      ],
+      "image_keywords": [
+        "lebanon israel border",
+        "iran missile attack",
+        "middle east war"
+      ],
+      "source_note": "Reuters, AFP",
+      "voice_segment": "Điều đáng sợ nhất là Gaza mới chỉ là ngòi nổ đầu tiên. Phía Bắc Israel, Hezbollah đã bắt đầu những đợt tập kích tên lửa xuyên biên giới Lebanon, buộc Tel Aviv phải chiến đấu trên hai mặt trận. Nguy hiểm hơn, Iran đã vượt qua lằn ranh đỏ khi trực tiếp phóng tên lửa vào lãnh thổ Israel, làm dấy lên nguy cơ Mỹ sẽ bị kéo vào một cuộc chiến tranh tổng lực. Ở phía Nam, Ai Cập và Jordan đang run sợ trước viễn cảnh hàng triệu người tị nạn tràn qua biên giới, phá vỡ kết cấu xã hội vốn đã mong manh của họ. Trung Đông hôm nay là một thùng thuốc súng mà ngọn lửa từ Gaza có thể thổi bùng bất cứ lúc nào, nhấn chìm cả khu vực vào hỗn loạn.",
+      "duration_hint": 38,
+      "start_frame": 9776,
+      "duration_frames": 921
+    },
+    {
+      "type": "insight",
+      "headline": "Bài học từ Gaza: Việt Nam và nghệ thuật giữ hòa bình trong thế giới hỗn loạn",
+      "points": [
+        "Việt Nam từng trải qua chiến tranh, hiểu rõ giá trị của hòa bình thực sự, không phải 'hòa bình ảo'.",
+        "Sự phụ thuộc vào các cường quốc có thể biến một quốc gia thành bàn đạp xung đột – bài học từ Ukraine và Gaza.",
+        "Ngoại giao cây tre Việt Nam: đa phương hóa, không để bị cuốn vào vòng xoáy đối đầu."
+      ],
+      "image_keywords": [
+        "vietnam foreign policy",
+        "peace diplomacy",
+        "bamboo diplomacy"
+      ],
+      "source_note": "Bộ Ngoại giao Việt Nam",
+      "voice_segment": "Nhìn vào Gaza, chúng ta càng thấm thía hơn giá trị của hòa bình thực sự – thứ mà Việt Nam đã phải đánh đổi bằng máu xương để có được. Nhưng hòa bình không chỉ là không có chiến tranh, mà còn là khả năng giữ vững chủ quyền trước những toan tính của các cường quốc. Câu chuyện Ukraine và Gaza cho thấy, nếu một quốc gia để mình trở thành bàn đạp trong cuộc chơi của các ông lớn, kết cục luôn là bi kịch cho chính người dân nước đó. Việt Nam đã chọn con đường ngoại giao cây tre – mềm dẻo, linh hoạt nhưng kiên cường, đa phương hóa quan hệ mà không bị cuốn vào vòng xoáy đối đầu. Đó không chỉ là nghệ thuật sinh tồn, mà còn là minh chứng rằng: trong thế giới hỗn loạn, khôn ngoan chính là sức mạnh tối thượng.",
+      "duration_hint": 38,
+      "start_frame": 10697,
+      "duration_frames": 1029
+    },
+    {
+      "type": "outro",
+      "cta": "Liệu hòa bình có còn tồn tại hay chỉ là một sản phẩm chính trị?",
+      "channel": "Huybrid",
+      "tagline": "Phân tích • Thời sự • Hiểu đúng",
+      "voice_segment": "Gaza hôm nay là tấm gương phản chiếu tàn khốc nhất về sự thật rằng: hòa bình không nằm ở những tuyên bố trên giấy, mà nằm ở cán cân quyền lực và ý chí của những dân tộc nhỏ. Khi lệnh ngừng bắn trở thành công cụ chiến tranh, thì chính niềm tin của nhân loại đã bị sát hại. Vậy câu hỏi để lại cho mỗi chúng ta: Liệu hòa bình có thực sự tồn tại hay chỉ là một sản phẩm chính trị, được đóng gói và bán ra mỗi ngày?",
+      "duration_hint": 20,
+      "start_frame": 11726,
+      "duration_frames": 597,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "industry": "",
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "duration_frames": 12330
+  }
+}
