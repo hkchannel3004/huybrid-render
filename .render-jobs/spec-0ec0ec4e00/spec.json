@@ -1,0 +1,108 @@
+{
+  "composition_id": "video-tech-grid",
+  "template_id": "video-tech-grid",
+  "style_id": "video-tech-grid",
+  "video_id": "spec-0ec0ec4e00",
+  "video_title": "AI Agent với Turtle & Gemma: Dễ hơn bạn nghĩ!",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-0ec0ec4e00.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "scenes": [
+    {
+      "type": "title",
+      "title": "AI Agent không còn là ma thuật",
+      "subtitle": "Làm chủ AI agent với Turtle & Gemma trong 10 phút",
+      "tags": [
+        "AI",
+        "Gemma",
+        "Turtle",
+        "Agent"
+      ],
+      "source_badge": "HUYBRID TECH",
+      "voice_segment": "AI Agent nghe có vẻ cao siêu, nhưng thực chất bạn có thể xây dựng một agent bằng... con rùa đồ họa! Đúng vậy, bài viết mới nhất từ Google AI trên Dev.to đã chỉ ra cách dùng thư viện Turtle kết hợp với mô hình Gemma để tạo ra agent thông minh. Nếu bạn nghĩ agent chỉ dành cho các ông lớn như OpenAI, thì hãy nghĩ lại. Đây là cú hích cho những ai muốn bắt tay vào làm ngay lập tức.",
+      "duration_hint": 8,
+      "start_frame": 0,
+      "duration_frames": 594
+    },
+    {
+      "type": "insight",
+      "headline": "Turtle quay trở lại – nhưng lần này có AI",
+      "image_keywords": [
+        "turtle graphics",
+        "python turtle",
+        "AI agent moving"
+      ],
+      "points": [
+        "Turtle là thư viện đồ họa căn bản trong Python, thường dùng để dạy trẻ em lập trình từ những năm 1960.",
+        "Giờ đây, Google kết hợp Turtle với Gemma – mô hình ngôn ngữ nhẹ (2B/7B) – để tạo ra một AI agent có thể ra lệnh cho rùa di chuyển và vẽ.",
+        "Bài viết hướng dẫn cụ thể từng bước, từ cài đặt Gemma, khởi tạo agent, đến điều khiển Turtle bằng ngôn ngữ tự nhiên."
+      ],
+      "source_note": "Dev.to – Demystifying AI Agents with Turtle & Gemma (Google AI)",
+      "voice_segment": "Bạn có nhớ hồi nhỏ từng vẽ hình tròn bằng lệnh FORWARD 100, RIGHT 90 không? Đó là Turtle – thứ đơn giản nhất trong lập trình. Và giờ Google đã biến nó thành môi trường lý tưởng để học AI agent. Họ dùng Gemma, mô hình AI nhẹ mới ra mắt, để agent hiểu lệnh tiếng Anh và điều khiển rùa. Điều này làm thay đổi cuộc chơi: thay vì học hàng lý thuyết dài dặc, bạn có thể code agent ngay trên màn hình, thấy nó hoạt động thực tế. Tin tốt là mọi thứ đều mở, chạy được trên laptop cấu hình trung bình. Còn trade-off? Ồ, bạn sẽ không giải quyết bài toán logistics toàn cầu với con rùa này đâu – nhưng để hiểu bản chất agent, thì không gì tuyệt hơn.",
+      "duration_hint": 18,
+      "start_frame": 594,
+      "duration_frames": 998
+    },
+    {
+      "type": "insight",
+      "headline": "Gemma – 'trợ thủ nhẹ' của Google lên ngôi",
+      "image_keywords": [
+        "Google Gemma model",
+        "lightweight AI",
+        "open source LLM"
+      ],
+      "points": [
+        "Gemma là dòng mô hình open-source của Google, được phát hành tháng 2/2024, có phiên bản 2B và 7B tham số.",
+        "So với các mô hình khổng lồ như GPT-4, Gemma chạy tốt trên một GPU tầm trung hoặc thậm chí CPU với lượng RAM lớn.",
+        "Trong hướng dẫn này, Gemma đóng vai trò 'bộ não' của agent: nhận prompt, quyết định hành động (di chuyển, vẽ, xoay), và đưa ra lệnh cho Turtle."
+      ],
+      "source_note": "Dev.to – Demystifying AI Agents with Turtle & Gemma (Google AI)",
+      "voice_segment": "Google không muốn thua OpenAI trong cuộc đua AI mở. Gemma, ra mắt đầu năm nay, chính là câu trả lời. Nó nhẹ, nhanh, và có thể chạy offline. Tại sao Google lại dùng Gemma với Turtle? Bởi vì họ muốn chứng minh rằng xây dựng agent không cần siêu máy tính. Bạn có thể tải Gemma 2B về máy, kết nối với script Python, và trong vòng 10 phút, bạn có một agent biết lắng nghe và hành động. Nhưng đừng lầm tưởng – Gemma không thông minh bằng GPT-4. Nó sẽ hiểu lệnh 'vẽ hình vuông', nhưng nếu bạn bảo 'vẽ một bãi biển lúc hoàng hôn', chắc chắn nó sẽ... vẽ một đống hỗn độn. Trade-off là rõ ràng: nhẹ thì kém tinh vi. Tuy nhiên, với mục đích học hỏi và thử nghiệm, đây là một bước tiến lớn.",
+      "duration_hint": 18,
+      "start_frame": 1592,
+      "duration_frames": 1063,
+      "image_url": "https://images.unsplash.com/photo-1678483789470-66fce6ab001f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBHZW1tYSUyMG1vZGVsJTIwbGlnaHR3ZWlnaHQlMjBBSSUyMG9wZW4lMjBzb3VyY2UlMjBMTE18ZW58MHwwfHx8MTc3OTI1MTA3Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Lợi ích thực tế và hạn chế không thể bỏ qua",
+      "image_keywords": [
+        "AI agent limitations",
+        "educational programming",
+        "hands-on AI tutorial"
+      ],
+      "points": [
+        "Lợi ích: sinh viên, lập trình viên mới có thể hiểu rõ cơ chế agent (quan sát, suy luận, hành động) mà không bị rối bởi hệ thống phức tạp.",
+        "Hạn chế: Turtle chỉ xử lý được lệnh cơ bản (di chuyển, xoay, đổi màu), không thể mô phỏng agent trong thế giới thực như robot hay game 3D.",
+        "Tuy nhiên, cách tiếp cận này giúp người học tự tin hơn trước khi bước vào các framework agent chuyên nghiệp như LangChain hay AutoGen."
+      ],
+      "source_note": "Dev.to – Demystifying AI Agents with Turtle & Gemma (Google AI)",
+      "voice_segment": "Vậy rốt cuộc, bài học từ Turtle và Gemma dạy chúng ta điều gì? Nó cho thấy AI agent không phải thứ gì đó xa vời, mà có thể được xây dựng bằng những công cụ rất đỗi quen thuộc. Bạn học được cách agent 'suy nghĩ' qua từng bước: nhận input, xử lý bằng mô hình ngôn ngữ, rồi đưa ra hành động cụ thể. Điều này cực kỳ giá trị cho người mới. Nhưng đừng vội nghĩ bạn sẽ viết được agent giao dịch chứng khoán hay lái xe tự hành chỉ sau tutorial này. Turtle chỉ là môi trường đồ chơi. Tuy nhiên, nếu bạn không thể điều khiển nổi một con rùa, thì đừng mơ làm agent ngoài đời thực. Đây là bước đệm hoàn hảo, và tôi cá rằng trong 1-2 năm tới, kiểu dạy agent với đồ họa cơ bản sẽ trở thành chuẩn trong các trường đại học.",
+      "duration_hint": 20,
+      "start_frame": 2655,
+      "duration_frames": 1108,
+      "image_url": "https://images.unsplash.com/photo-1646583288948-24548aedffd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxBSSUyMGFnZW50JTIwbGltaXRhdGlvbnMlMjBlZHVjYXRpb25hbCUyMHByb2dyYW1taW5nJTIwaGFuZHMtb24lMjBBSSUyMHR1dG9yaWFsfGVufDB8MHx8fDE3NzkyNTEwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn đã thử xây AI agent với Turtle chưa?",
+      "channel": "Huybrid Tech",
+      "tagline": "AI • Code • Innovation",
+      "voice_segment": "Tóm lại, Google đang mở đường cho một cách học AI agent trực quan, dễ tiếp cận. Turtle + Gemma là minh chứng rằng đôi khi thứ đơn giản nhất lại mạnh mẽ nhất. Bạn có nghĩ rằng trong tương lai, mỗi lập trình viên sẽ đều tự viết agent cho riêng mình, giống như viết hàm bây giờ không?",
+      "duration_hint": 5,
+      "start_frame": 3763,
+      "duration_frames": 440,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkxNTE4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "industry": "",
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "duration_frames": 4206
+  }
+}
