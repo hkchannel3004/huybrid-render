@@ -1,0 +1,92 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-184b7ef0b9",
+  "video_title": "MỸ DỌA RÚT VISA ĐẠI SỨ PALESTINE",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-184b7ef0b9.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "TỐI HẬU THƯ TỪ MỸ",
+      "subtitle": "Dọa rút visa đại sứ Palestine tại LHQ",
+      "tags": [
+        "diplomacy",
+        "US",
+        "Palestine"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "US flag United Nations",
+        "Palestinian ambassador passport",
+        "diplomatic threat"
+      ],
+      "voice_segment": "Mỹ vừa giáng một đòn ngoại giao chưa từng có: dọa rút visa đại sứ Palestine nếu họ đòi ghế cao tại Liên Hợp Quốc. Bản ghi nhớ của Bộ Ngoại giao bị rò rỉ cho thấy áp lực cực đoan.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 274,
+      "image_url": "https://images.unsplash.com/photo-1644701743457-d2160f05c6c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxVUyUyMGZsYWclMjBVbml0ZWQlMjBOYXRpb25zJTIwUGFsZXN0aW5pYW4lMjBhbWJhc3NhZG9yJTIwcGFzc3BvcnQlMjBkaXBsb21hdGljJTIwdGhyZWF0fGVufDB8MHx8fDE3NzkzMzUxNzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "VŨ KHÍ THỊ THỰC",
+      "points": [
+        "Tài liệu rò rỉ từ State Department ngày 20/5/2026",
+        "Palestine muốn ứng cử vị trí cấp cao tại LHQ",
+        "Mỹ siết visa như đòn bẩy cấm vận cá nhân"
+      ],
+      "image_keywords": [
+        "leaked memo document",
+        "US State Department building",
+        "Palestine UN flag"
+      ],
+      "source_note": "Nguồn: NPR dẫn bản ghi nhớ của Bộ Ngoại giao Mỹ",
+      "voice_segment": "Hãy nhìn rõ: đây không phải lần đầu Mỹ dùng visa để trừng phạt ngoại giao. Lần này, họ nhắm thẳng vào đại sứ Palestine chỉ vì muốn một ghế tại LHQ. Liệu có gọi đây là bạo lực hành chính?",
+      "duration_hint": 12,
+      "start_frame": 274,
+      "duration_frames": 286
+    },
+    {
+      "type": "insight",
+      "headline": "AI ĐƯỢC LÊN TIẾNG?",
+      "points": [
+        "Luật quốc tế cấm cản trở đại diện ngoại giao",
+        "Mỹ viện dẫn 'an ninh quốc gia' nhưng không bằng chứng",
+        "Palestine mất tiếng nói ngay tại trụ sở LHQ"
+      ],
+      "image_keywords": [
+        "United Nations General Assembly empty seats",
+        "Palestinian delegate speech",
+        "international law gavel"
+      ],
+      "source_note": "Phân tích từ Al Jazeera và BBC World",
+      "voice_segment": "Sự thật là: Palestine đang bị tước quyền tham gia chính trị quốc tế ngay trên sân nhà của LHQ. Mỹ hô hào dân chủ nhưng lại dùng thị thực bịt miệng đối thủ. Một thế giới công bằng liệu có còn ý nghĩa?",
+      "duration_hint": 10,
+      "start_frame": 560,
+      "duration_frames": 306
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn nghĩ Mỹ có nên làm vậy?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Liệu áp lực thị thực có thể thay đổi cục diện ngoại giao? Để lại ý kiến của bạn nhé.",
+      "duration_hint": 4,
+      "start_frame": 866,
+      "duration_frames": 129,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 998
+  }
+}
