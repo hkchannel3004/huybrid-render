@@ -1,0 +1,93 @@
+{
+  "composition_id": "short-breaking-news",
+  "template_id": "short-breaking-news",
+  "style_id": "short-breaking-news",
+  "video_id": "spec-02bbb2729b",
+  "video_title": "Mỹ truy tố Raúl Castro tội giết người",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-02bbb2729b.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "News",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Cựu lãnh đạo Cuba bị truy tố giết người!",
+      "subtitle": "Raúl Castro và 5 người khác - tội ác từ năm 1996",
+      "tags": [
+        "Cuba",
+        "RaulCastro",
+        "BreakingNews"
+      ],
+      "source_badge": "HUYBRID NEWS",
+      "image_keywords": [
+        "Raul Castro face",
+        "court gavel",
+        "US flag Cuba"
+      ],
+      "voice_segment": "Mỹ vừa chính thức truy tố cựu lãnh đạo Cuba Raúl Castro về tội giết người. Không phải hôm qua, mà là vụ bắn rơi hai máy bay dân sự cách đây gần 30 năm!",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 240,
+      "image_url": "https://images.unsplash.com/photo-1516204528674-932750953055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxSYXVsJTIwQ2FzdHJvJTIwZmFjZSUyMGNvdXJ0JTIwZ2F2ZWwlMjBVUyUyMGZsYWclMjBDdWJhfGVufDB8MHx8fDE3NzkzMjgwODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Vụ bắn rơi máy bay đẫm máu",
+      "points": [
+        "1996: Lực lượng Cuba bắn rơi 2 máy bay dân sự của tổ chức \"Những người huynh đệ cứu giúp\"",
+        "4 công dân Mỹ thiệt mạng, trong đó có 1 người Mỹ gốc Cuba",
+        "Cáo buộc: âm mưu giết người, phá hủy máy bay, bạo lực hàng không"
+      ],
+      "image_keywords": [
+        "plane wreckage ocean",
+        "1990s Cuban aircraft",
+        "American victims memorial"
+      ],
+      "source_note": "BBC News - Ngày 20/5/2026",
+      "voice_segment": "Năm 1996, không quân Cuba bắn rơi hai máy bay dân sự nhỏ do tổ chức đối lập 'Brothers to the Rescue' điều khiển. Bốn người Mỹ thiệt mạng. Hoa Kỳ gọi đó là hành động khủng bố, nhưng suốt 30 năm không có truy tố. Giờ họ bất ngờ ra tay.",
+      "duration_hint": 12,
+      "start_frame": 240,
+      "duration_frames": 370
+    },
+    {
+      "type": "insight",
+      "headline": "Sao mãi đến bây giờ?",
+      "points": [
+        "Cáo buộc bao gồm: Conspiracy to kill US nationals",
+        "Raúl Castro hiện 95 tuổi, không còn nắm quyền",
+        "Động thái chính trị làm nóng quan hệ Mỹ - Cuba?"
+      ],
+      "image_keywords": [
+        "Raul Castro older",
+        "US Cuba flag handshake",
+        "political tension concept"
+      ],
+      "source_note": "BBC World, Al Jazeera phân tích",
+      "voice_segment": "Câu hỏi đặt ra: Tại sao Mỹ chọn thời điểm này? Raúl Castro đã nghỉ hưu, sức khỏe yếu. Liệu đây là đòn trừng phạt mới, hay chỉ là màn kịch chính trị trước bầu cử? Thực tế, Cuba vẫn phủ nhận mọi cáo buộc.",
+      "duration_hint": 10,
+      "start_frame": 610,
+      "duration_frames": 321,
+      "image_url": "https://images.unsplash.com/photo-1606708046251-bc18bdb74925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxSYXVsJTIwQ2FzdHJvJTIwb2xkZXIlMjBVUyUyMEN1YmElMjBmbGFnJTIwaGFuZHNoYWtlJTIwcG9saXRpY2FsJTIwdGVuc2lvbiUyMGNvbmNlcHR8ZW58MHwwfHx8MTc3OTMyODA4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn nghĩ Mỹ có nên truy tố lúc này?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID NEWS",
+      "voice_segment": "Phải chăng công lý đến quá trễ? Hay ẩn sau là toan tính lớn hơn? Hãy để lại quan điểm của bạn.",
+      "duration_hint": 4,
+      "start_frame": 931,
+      "duration_frames": 149,
+      "image_url": "https://images.unsplash.com/photo-1529209076408-5a115ec9f1c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3NzkyNDgwOTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1082
+  }
+}
