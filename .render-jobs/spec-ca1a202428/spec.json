@@ -1,0 +1,113 @@
+{
+  "composition_id": "video-tech-grid",
+  "template_id": "video-tech-grid",
+  "style_id": "video-tech-grid",
+  "video_id": "spec-ca1a202428",
+  "video_title": "AI Google: Riêng tư của bạn có còn là của bạn?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-ca1a202428.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "scenes": [
+    {
+      "type": "title",
+      "title": "AI Google: Riêng tư trên thiết bị",
+      "subtitle": "MCP chạy trên Edge: Bảo mật hay ảo tưởng?",
+      "tags": [
+        "Google",
+        "AI",
+        "EdgeAI",
+        "Privacy"
+      ],
+      "source_badge": "HUYBRID TECH",
+      "voice_segment": "Google vừa công bố một bước tiến đáng kinh ngạc tại I/O 2024: AI Edge Gallery giờ đây có thể chạy Mô hình Điện toán Bảo mật (MCP) trực tiếp trên thiết bị của bạn. Điều này không chỉ là một cải tiến về hiệu suất mà còn là một lời hứa hẹn về quyền riêng tư. Nhưng liệu lời hứa đó có thực sự được đảm bảo khi AI ngày càng len lỏi sâu vào cuộc sống cá nhân của chúng ta? Chúng ta đang đứng trước một làn sóng công nghệ mới, nơi ranh giới giữa tiện ích và sự giám sát trở nên mờ nhạt hơn bao giờ hết.",
+      "duration_hint": 10,
+      "start_frame": 0,
+      "duration_frames": 708,
+      "image_url": "https://images.unsplash.com/photo-1674027215032-f0c4292318ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxHb29nbGUlMjBBSSUyMEVkZ2VBSSUyMFByaXZhY3l8ZW58MHwwfHx8MTc3OTc1NjQ2OHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Sức mạnh AI trên thiết bị cá nhân",
+      "image_keywords": [
+        "on-device AI",
+        "edge computing",
+        "smartphone AI"
+      ],
+      "points": [
+        "AI Edge Gallery cho phép các mô hình AI chạy cục bộ, không cần gửi dữ liệu lên đám mây.",
+        "MCP (Mobile Computing Platform) được tối ưu hóa để xử lý dữ liệu nhạy cảm ngay trên thiết bị.",
+        "Giảm độ trễ, tăng tốc độ phản hồi và cải thiện trải nghiệm người dùng với AI.",
+        "Google I/O Writing Challenge đã nhấn mạnh tầm quan trọng của công nghệ này."
+      ],
+      "source_note": "Dev.to: Google AI Edge Gallery Now Runs MCP On-Device. The Privacy Architecture",
+      "voice_segment": "Việc đưa AI chạy trực tiếp trên thiết bị cá nhân như điện thoại hay máy tính bảng mang lại lợi ích rõ rệt về tốc độ và hiệu quả. Các tác vụ AI sẽ được xử lý gần như ngay lập tức, không còn phụ thuộc vào kết nối mạng hay sức mạnh của máy chủ đám mây. Điều này mở ra cánh cửa cho những ứng dụng AI siêu cá nhân hóa, từ trợ lý ảo thông minh hơn đến các tính năng bảo mật sinh trắc học tiên tiến. Tuy nhiên, câu hỏi đặt ra là, liệu việc xử lý dữ liệu nhạy cảm ngay trên thiết bị có thực sự an toàn hơn, hay chỉ là một cách khác để Google thu thập thông tin?",
+      "duration_hint": 15,
+      "start_frame": 708,
+      "duration_frames": 791,
+      "image_url": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxvbi1kZXZpY2UlMjBBSSUyMGVkZ2UlMjBjb21wdXRpbmclMjBzbWFydHBob25lJTIwQUl8ZW58MHwwfHx8MTc3OTc1NjQ2OXww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Quyền riêng tư: Lời hứa và thách thức",
+      "image_keywords": [
+        "data privacy",
+        "cyber security",
+        "personal data"
+      ],
+      "points": [
+        "Mục tiêu chính của MCP là bảo vệ dữ liệu người dùng bằng cách giữ chúng trên thiết bị.",
+        "Các thuật toán AI được thiết kế để hoạt động với dữ liệu cục bộ, giảm thiểu rủi ro rò rỉ.",
+        "Tuy nhiên, vẫn còn những lo ngại về cách Google quản lý và sử dụng các mô hình AI này.",
+        "Người dùng cần hiểu rõ cơ chế hoạt động để tự bảo vệ quyền riêng tư của mình."
+      ],
+      "source_note": "Dev.to: Google AI Edge Gallery Now Runs MCP On-Device. The Privacy Architecture",
+      "voice_segment": "Google khẳng định rằng việc chạy MCP trên thiết bị sẽ tăng cường quyền riêng tư bằng cách giữ dữ liệu cá nhân của bạn không rời khỏi thiết bị. Điều này nghe có vẻ tuyệt vời, nhưng thực tế phức tạp hơn nhiều. Các mô hình AI vẫn cần được đào tạo và cập nhật, và quá trình đó có thể liên quan đến việc tổng hợp dữ liệu ẩn danh từ hàng triệu người dùng. Câu hỏi là, liệu Google có thể đảm bảo rằng dữ liệu của chúng ta sẽ không bị sử dụng sai mục đích, dù là vô tình hay cố ý, trong quá trình phát triển và cải thiện AI? Đây là một thách thức lớn mà cả Google và người dùng đều phải đối mặt.",
+      "duration_hint": 15,
+      "start_frame": 1499,
+      "duration_frames": 840,
+      "image_url": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxkYXRhJTIwcHJpdmFjeSUyMGN5YmVyJTIwc2VjdXJpdHklMjBwZXJzb25hbCUyMGRhdGF8ZW58MHwwfHx8MTc3OTc1NjQ3MHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Tác động đến người dùng và tương lai AI",
+      "image_keywords": [
+        "future of AI",
+        "ethical AI",
+        "AI impact"
+      ],
+      "points": [
+        "AI trên thiết bị sẽ thay đổi cách chúng ta tương tác với công nghệ hàng ngày.",
+        "Mở ra kỷ nguyên mới cho các ứng dụng cá nhân hóa sâu sắc và thông minh hơn.",
+        "Đặt ra yêu cầu cao hơn về đạo đức AI và trách nhiệm của các nhà phát triển.",
+        "Người dùng cần chủ động tìm hiểu và kiểm soát cài đặt quyền riêng tư của mình."
+      ],
+      "source_note": "Dev.to: Google AI Edge Gallery Now Runs MCP On-Device. The Privacy Architecture",
+      "voice_segment": "Công nghệ AI Edge Gallery của Google không chỉ là một bước tiến kỹ thuật, mà còn là một dấu hiệu cho thấy tương lai của AI đang dịch chuyển mạnh mẽ về phía các thiết bị cá nhân. Điều này sẽ định hình lại cách chúng ta làm việc, giải trí và giao tiếp. Tuy nhiên, với sức mạnh đi kèm là trách nhiệm lớn. Các nhà phát triển AI cần phải đặt đạo đức và quyền riêng tư lên hàng đầu, trong khi người dùng cần phải thông thái hơn trong việc lựa chọn và sử dụng các sản phẩm công nghệ. Liệu chúng ta có thể tận hưởng những lợi ích của AI mà không phải đánh đổi quyền riêng tư của mình?",
+      "duration_hint": 15,
+      "start_frame": 2339,
+      "duration_frames": 824,
+      "image_url": "https://images.unsplash.com/photo-1694903110330-cc64b7e1d21d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxmdXR1cmUlMjBvZiUyMEFJJTIwZXRoaWNhbCUyMEFJJTIwQUklMjBpbXBhY3R8ZW58MHwwfHx8MTc3OTc1NjQ3MHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "outro",
+      "cta": "Bạn có tin tưởng AI trên thiết bị sẽ bảo vệ quyền riêng tư?",
+      "channel": "Huybrid Tech",
+      "tagline": "AI • Code • Innovation",
+      "voice_segment": "Việc Google đưa AI mạnh mẽ hơn lên thiết bị cá nhân với lời hứa về quyền riêng tư là một bước đi táo bạo. Nó mở ra nhiều tiềm năng nhưng cũng không ít rủi ro. Hãy cùng theo dõi xem công nghệ này sẽ phát triển như thế nào và liệu nó có thực sự mang lại một tương lai an toàn hơn cho dữ liệu của chúng ta hay không.",
+      "duration_hint": 5,
+      "start_frame": 3163,
+      "duration_frames": 447,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3Nzk3MjMwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "industry": "",
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "duration_frames": 3612
+  }
+}
