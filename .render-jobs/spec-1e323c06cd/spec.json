@@ -1,0 +1,95 @@
+{
+  "composition_id": "short-insight-9x16",
+  "template_id": "short-insight-9x16",
+  "style_id": "short-insight-9x16",
+  "video_id": "spec-1e323c06cd",
+  "video_title": "Robot trên Sao Hỏa: Tương lai hay hiện tại?",
+  "voice_audio_path": "D:\\Huybrid\\data\\watchdog\\voice\\spec-1e323c06cd.wav",
+  "bgm_asset": "render-bgm.mp3",
+  "playback_speed": 1.25,
+  "category": "Science",
+  "scenes": [
+    {
+      "type": "title",
+      "title": "Robot trên Sao Hỏa!",
+      "subtitle": "Cơ hội vàng khám phá hành tinh đỏ",
+      "tags": [
+        "robot",
+        "sao hỏa",
+        "khám phá"
+      ],
+      "source_badge": "HUYBRID SCIENCE",
+      "image_keywords": [
+        "Mars rover",
+        "Opportunity robot",
+        "space exploration"
+      ],
+      "voice_segment": "Bạn có bao giờ tưởng tượng một robot đang lăn bánh trên Sao Hỏa sẽ trông như thế nào? Hình ảnh kỹ thuật số này cho chúng ta cái nhìn chân thực về Opportunity, một trong những sứ mệnh khám phá vĩ đại nhất của NASA.",
+      "duration_hint": 6,
+      "start_frame": 0,
+      "duration_frames": 312,
+      "image_url": "https://images.unsplash.com/photo-1639782792143-d8ce97e5d330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxNYXJzJTIwcm92ZXIlMjBPcHBvcnR1bml0eSUyMHJvYm90JTIwc3BhY2UlMjBleHBsb3JhdGlvbnxlbnwwfDB8fHwxNzc5ODg3MDQ5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Opportunity: Kỷ lục gia Sao Hỏa",
+      "points": [
+        "Hoạt động hơn 14 năm, vượt xa dự kiến 90 ngày",
+        "Di chuyển hơn 45 km, phá kỷ lục của Liên Xô",
+        "Gửi về hàng trăm nghìn hình ảnh và dữ liệu khoa học"
+      ],
+      "image_keywords": [
+        "Opportunity rover",
+        "Mars landscape",
+        "NASA mission",
+        "red planet"
+      ],
+      "source_note": "NASA APOD",
+      "voice_segment": "Opportunity không chỉ là một robot, nó là một kỷ lục gia. Với tuổi thọ vượt xa mọi dự đoán, nó đã di chuyển hàng chục kilomet trên bề mặt Sao Hỏa, gửi về vô số dữ liệu quý giá, giúp chúng ta hiểu rõ hơn về lịch sử địa chất của hành tinh này.",
+      "duration_hint": 12,
+      "start_frame": 312,
+      "duration_frames": 353,
+      "image_url": "https://images.unsplash.com/photo-1571769267292-e24dfadebbdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHxPcHBvcnR1bml0eSUyMHJvdmVyJTIwTWFycyUyMGxhbmRzY2FwZSUyME5BU0ElMjBtaXNzaW9uJTIwcmVkJTIwcGxhbmV0fGVufDB8MHx8fDE3Nzk4ODcwNTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
+      "type": "insight",
+      "headline": "Công nghệ thay đổi cuộc chơi",
+      "points": [
+        "Thiết kế bền bỉ, chống chịu môi trường khắc nghiệt",
+        "Khả năng tự hành và phân tích mẫu vật",
+        "Mở đường cho các sứ mệnh tương lai"
+      ],
+      "image_keywords": [
+        "robotics Mars",
+        "AI space",
+        "future exploration",
+        "Martian surface"
+      ],
+      "source_note": "NASA",
+      "voice_segment": "Sự thành công của Opportunity là minh chứng cho sức mạnh của công nghệ robot. Khả năng tự hành và thiết kế bền bỉ của nó đã mở ra cánh cửa cho những sứ mệnh phức tạp hơn, đưa con người gần hơn đến giấc mơ đặt chân lên Sao Hỏa.",
+      "duration_hint": 10,
+      "start_frame": 665,
+      "duration_frames": 331
+    },
+    {
+      "type": "outro",
+      "cta": "Tương lai nào cho khám phá Sao Hỏa?",
+      "channel": "Huybrid",
+      "tagline": "HUYBRID SCIENCE",
+      "voice_segment": "Vậy, liệu một ngày nào đó, những robot này có thể chuẩn bị cho sự hiện diện lâu dài của con người trên Sao Hỏa? Hãy cùng Huybrid Science tiếp tục theo dõi những bước tiến vĩ đại này!",
+      "duration_hint": 4,
+      "start_frame": 996,
+      "duration_frames": 267,
+      "image_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NDA2Nzh8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tbXVuaXR5fGVufDB8MHx8fDE3Nzk4ODMwNzl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    }
+  ],
+  "brand": {},
+  "product": {},
+  "product_image_url": "",
+  "output": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "duration_frames": 1265
+  }
+}
